@@ -1,7 +1,7 @@
 package ej05;
 
 public class Test {
-	//
+	//comentario 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
